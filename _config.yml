@@ -1,6 +1,9 @@
-title: Minimal theme
-logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
+title: SHIVAM SINGH
+logo: './images/profile.png'
+description: >- # this means to ignore newlines until "baseurl:"
+  Shivam Singh is a graduate student at Stony Brook University, currently
+  pursuing masters in Computer Science. Shivam is expected to graduate by
+  December 2020.
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal

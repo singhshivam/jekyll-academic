@@ -2,7 +2,8 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# Biography
+Shivam Singh is currently pursing Masters of Science in Computer Science at Stony Brook University, New York. His areas of interests are Networks and Systems. His research focuses on the security and privacy of ..
 
 [Link to another page](./another-page.html).
 
@@ -10,7 +11,6 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
