@@ -3,7 +3,24 @@ layout: default
 ---
 
 # Biography
-Shivam Singh is currently pursing Masters of Science in Computer Science at Stony Brook University, New York. His areas of interests are Networks and Systems. His research focuses on the security and privacy of ..
+Shivam Singh is currently a graduate student pursuing a Master's degree in Computer Science at Stony Brook University. He received his B.Tech. degree in Computer Science and Engineering in 2013 at KIIT University, India. Before attending Stony Brook University he was a senior software engineer at BlogVault, a website backup & security company. He joined BlogVault as its first hire and played a vital role in scaling the company.
+
+His research interests in computer science are in the areas of security and privacy of computer networks and systems. He is currently working with Prof Amir Rahmati exploring the privacy issues related to home assistant products at the Ethos Lab.
+
+
+# Projects
+
+**GAEvents**
+a Ruby gem to send multiple user interaction events to Google Analytics; 2000+ downloads
+
+**Ruby-CURL**
+a true libcurl binding for Ruby; 900+ downloads
+
+**React External Image**
+a React Component to load external images. Allows fallback image URLs as option
+
+**ImmutableJS Examples**
+a GitHub gist containing easy to understand examples of immutable js; 100+ stars
 
 [Link to another page](./another-page.html).
 
